@@ -42,7 +42,7 @@ name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Giới thiệu"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
@@ -62,11 +62,11 @@ name = "FAQ"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Báo giá"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Dịch vụ"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
