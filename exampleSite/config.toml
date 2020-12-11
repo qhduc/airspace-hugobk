@@ -50,8 +50,8 @@ URL = "project"
 name = "Project"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "service"
-name = "Dịch vụ"
+URL = "categories/artificial-intelligence/"
+name = "artificial-intelligence"
 parent = "Project"
 [[Languages.en.menu.main]]
 URL = "blog"
